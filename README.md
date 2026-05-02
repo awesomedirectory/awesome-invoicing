@@ -1,2 +1,76 @@
-# awesome-invoicing
-Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
+# Awesome Invoicing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of invoicing software, accounts receivable tools, expense trackers, and payment platforms for freelancers and small businesses.
+
+## Contents
+
+- [Invoicing Software](#invoicing-software)
+- [Accounts Receivable Automation](#accounts-receivable-automation)
+- [Time Tracking → Invoice](#time-tracking--invoice)
+- [Expense & Receipt Tracking](#expense--receipt-tracking)
+- [Accounting & Bookkeeping](#accounting--bookkeeping)
+- [Tax & E-invoicing Compliance](#tax--e-invoicing-compliance)
+- [Cross-border Payments](#cross-border-payments)
+- [Contributing](#contributing)
+
+---
+
+## Invoicing Software
+*Send branded invoices, accept payment, and track status.*
+
+* **[TaxInvoicer](https://taxinvoicer.com)** - Professional invoice management with client portal, PDF generation, automatic calculations, and Stripe integration.
+* [FreshBooks](https://freshbooks.com) - Accounting and invoicing for self-employed professionals and small teams.
+* [Wave](https://waveapps.com) - Free invoicing and accounting for freelancers and small businesses.
+* [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
+* [Invoice Ninja](https://invoiceninja.com) - Open-source invoicing platform with self-hosting option.
+* [Bill.com](https://bill.com) - SMB-focused AP and AR automation.
+
+## Accounts Receivable Automation
+*Get paid faster without writing chase emails by hand.*
+
+* [Stripe Invoicing](https://stripe.com/invoicing) - One-time and recurring invoicing built on Stripe.
+* [Chaser](https://chaserhq.com) - Automated invoice chasing for late payments.
+* [Paystand](https://paystand.com) - Zero-fee receivables platform.
+* [Tesorio](https://tesorio.com) - AR automation with cash forecasting.
+
+## Time Tracking → Invoice
+*Bill clients straight from tracked time.*
+
+* [Harvest](https://www.getharvest.com) - Time tracking with native invoicing and Stripe payments.
+* [Toggl Track](https://toggl.com/track) - Lightweight time tracking with invoice export.
+* [Clockify](https://clockify.me) - Free time tracker with invoicing add-on.
+
+## Expense & Receipt Tracking
+*Capture spend and reconcile to invoices.*
+
+* [Expensify](https://expensify.com) - Receipt scanning and expense reports.
+* [Ramp](https://ramp.com) - Corporate cards plus expense management for SMBs.
+* [Brex](https://brex.com) - Cards and spend management for startups.
+* [Bench](https://bench.co) - Bookkeeping service that handles receipts and reconciliation.
+
+## Accounting & Bookkeeping
+*General ledger and books-of-record platforms.*
+
+* [QuickBooks](https://quickbooks.intuit.com) - Mainstream small-business accounting platform.
+* [Xero](https://www.xero.com) - Cloud accounting popular outside the US.
+* [NetSuite](https://www.netsuite.com) - Enterprise ERP for larger organizations.
+
+## Tax & E-invoicing Compliance
+*Calculate and remit indirect taxes correctly across jurisdictions.*
+
+* [TaxJar](https://www.taxjar.com) - Sales tax automation for e-commerce.
+* [Avalara](https://www.avalara.com) - Enterprise tax compliance and e-invoicing.
+* [Stripe Tax](https://stripe.com/tax) - Automated tax calculation and filing.
+
+## Cross-border Payments
+*Bank and pay across currencies and entity types.*
+
+* [Wise](https://wise.com) - Low-fee international payments and multi-currency accounts.
+* [Mercury](https://mercury.com) - Banking platform built for startups.
+* [Deel](https://www.deel.com) - Compliant international contractor and employee payments.
+
+---
+
+## Contributing
+
+Know an invoicing tool that should be on this list? See [contributing.md](contributing.md).
