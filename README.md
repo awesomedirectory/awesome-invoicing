@@ -23,6 +23,7 @@
 * [Wave](https://waveapps.com) - Free invoicing and accounting for freelancers and small businesses.
 * [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
 * [Invoice Ninja](https://invoiceninja.com) - Open-source invoicing platform with self-hosting option.
+* **[Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/)** - Free browser invoice generator: print or save PDF with no account. [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesomedirectory-invoicing-v1) adds white-label PDFs, 6 templates, unlimited batch CLI. [Source](https://github.com/YtinuMoc/toolkitlabs-invoice).
 * [Bill.com](https://bill.com) - SMB-focused AP and AR automation.
 
 ## Accounts Receivable Automation
