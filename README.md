@@ -19,6 +19,7 @@
 *Send branded invoices, accept payment, and track status.*
 
 * **[TaxInvoicer](https://taxinvoicer.com)** - Professional invoice management with client portal, PDF generation, automatic calculations, and Stripe integration.
+* [fakturcho.com](https://www.fakturcho.com) - Bulgarian-language invoicing web app for freelancers and small firms; VAT-compliant Cyrillic PDFs, pay per document.
 * [FreshBooks](https://freshbooks.com) - Accounting and invoicing for self-employed professionals and small teams.
 * [Wave](https://waveapps.com) - Free invoicing and accounting for freelancers and small businesses.
 * [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
