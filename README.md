@@ -54,6 +54,7 @@
 * [QuickBooks](https://quickbooks.intuit.com) - Mainstream small-business accounting platform.
 * [Xero](https://www.xero.com) - Cloud accounting popular outside the US.
 * [NetSuite](https://www.netsuite.com) - Enterprise ERP for larger organizations.
+* [OpenBooks](https://github.com/braedonsaunders/openbooks) - Open-source mid-market accounting/ERP with multi-entity, job costing, invoices, bills, and inventory.
 
 ## Tax & E-invoicing Compliance
 *Calculate and remit indirect taxes correctly across jurisdictions.*
