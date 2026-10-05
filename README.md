@@ -58,9 +58,10 @@
 ## Tax & E-invoicing Compliance
 *Calculate and remit indirect taxes correctly across jurisdictions.*
 
-* [TaxJar](https://www.taxjar.com) - Sales tax automation for e-commerce.
 * [Avalara](https://www.avalara.com) - Enterprise tax compliance and e-invoicing.
+* [Rubrol](https://github.com/maxcomperatore/rubrol) - High-throughput engine for Factur-X / PDF/A-3b hybrid electronic invoicing.
 * [Stripe Tax](https://stripe.com/tax) - Automated tax calculation and filing.
+* [TaxJar](https://www.taxjar.com) - Sales tax automation for e-commerce.
 
 ## Cross-border Payments
 *Bank and pay across currencies and entity types.*
