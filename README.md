@@ -18,12 +18,13 @@
 ## Invoicing Software
 *Send branded invoices, accept payment, and track status.*
 
-* **[TaxInvoicer](https://taxinvoicer.com)** - Professional invoice management with client portal, PDF generation, automatic calculations, and Stripe integration.
+* [Bill.com](https://bill.com) - SMB-focused AP and AR automation.
 * [FreshBooks](https://freshbooks.com) - Accounting and invoicing for self-employed professionals and small teams.
+* [Invoice Ninja](https://invoiceninja.com) - Open-source invoicing platform with self-hosting option.
+* [Invompt](https://invompt.com) - Drafts invoices and quotes from an AI chat. You review each document before sending. Guest access needs no account.
+* **[TaxInvoicer](https://taxinvoicer.com)** - Professional invoice management with client portal, PDF generation, automatic calculations, and Stripe integration.
 * [Wave](https://waveapps.com) - Free invoicing and accounting for freelancers and small businesses.
 * [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
-* [Invoice Ninja](https://invoiceninja.com) - Open-source invoicing platform with self-hosting option.
-* [Bill.com](https://bill.com) - SMB-focused AP and AR automation.
 
 ## Accounts Receivable Automation
 *Get paid faster without writing chase emails by hand.*
