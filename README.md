@@ -60,6 +60,7 @@
 
 * [TaxJar](https://www.taxjar.com) - Sales tax automation for e-commerce.
 * [Avalara](https://www.avalara.com) - Enterprise tax compliance and e-invoicing.
+* [einvoicevalidator.eu](https://einvoicevalidator.eu/en) - Free, no-signup EU e-invoice validator for XRechnung, ZUGFeRD/Factur-X and Peppol BIS 3.0.
 * [Stripe Tax](https://stripe.com/tax) - Automated tax calculation and filing.
 
 ## Cross-border Payments
