@@ -28,6 +28,7 @@
 ## Accounts Receivable Automation
 *Get paid faster without writing chase emails by hand.*
 
+* [AutomationEdge](https://automation-edge.net) - No-code playbooks and templates for automating invoice follow-ups and AR workflows.
 * [Stripe Invoicing](https://stripe.com/invoicing) - One-time and recurring invoicing built on Stripe.
 * [Chaser](https://chaserhq.com) - Automated invoice chasing for late payments.
 * [Paystand](https://paystand.com) - Zero-fee receivables platform.
