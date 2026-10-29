@@ -30,6 +30,7 @@
 
 * [Stripe Invoicing](https://stripe.com/invoicing) - One-time and recurring invoicing built on Stripe.
 * [Chaser](https://chaserhq.com) - Automated invoice chasing for late payments.
+* [Friday Invoice Chase Ranker](https://sirmem.github.io/friday-invoice-chase-tool/) - Free local-first web tool that ranks which overdue freelance invoices to chase this Friday (no signup).
 * [Paystand](https://paystand.com) - Zero-fee receivables platform.
 * [Tesorio](https://tesorio.com) - AR automation with cash forecasting.
 
