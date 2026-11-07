@@ -32,6 +32,7 @@
 * [Chaser](https://chaserhq.com) - Automated invoice chasing for late payments.
 * [Paystand](https://paystand.com) - Zero-fee receivables platform.
 * [Tesorio](https://tesorio.com) - AR automation with cash forecasting.
+* [UK Late Payment Calculator](https://github.com/wilsonryan-hue/uk-late-payment-calculator) - Free UK statutory late-payment interest calculator (8% + Bank of England reference rate, £40/£70/£100 fixed sum). One JS file, no tracking.
 
 ## Time Tracking → Invoice
 *Bill clients straight from tracked time.*
