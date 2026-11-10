@@ -24,6 +24,7 @@
 * [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
 * [Invoice Ninja](https://invoiceninja.com) - Open-source invoicing platform with self-hosting option.
 * [Bill.com](https://bill.com) - SMB-focused AP and AR automation.
+* [Belvak Free Invoice Generator](https://belvak.com/free-invoice-generator) - Free browser-based invoice generator with 12 templates and PDF download, no signup.
 
 ## Accounts Receivable Automation
 *Get paid faster without writing chase emails by hand.*
