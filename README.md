@@ -20,6 +20,7 @@
 
 * **[TaxInvoicer](https://taxinvoicer.com)** - Professional invoice management with client portal, PDF generation, automatic calculations, and Stripe integration.
 * [FreshBooks](https://freshbooks.com) - Accounting and invoicing for self-employed professionals and small teams.
+* [Genaya](https://genaya.com) - Estimates, invoices, and card or bank payments for service businesses, with scheduling and CRM in the same app.
 * [Wave](https://waveapps.com) - Free invoicing and accounting for freelancers and small businesses.
 * [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
 * [Invoice Ninja](https://invoiceninja.com) - Open-source invoicing platform with self-hosting option.
