@@ -36,9 +36,10 @@
 ## Time Tracking → Invoice
 *Bill clients straight from tracked time.*
 
-* [Harvest](https://www.getharvest.com) - Time tracking with native invoicing and Stripe payments.
-* [Toggl Track](https://toggl.com/track) - Lightweight time tracking with invoice export.
 * [Clockify](https://clockify.me) - Free time tracker with invoicing add-on.
+* [Harvest](https://www.getharvest.com) - Time tracking with native invoicing and Stripe payments.
+* [Retainer Wallet](https://ecosystem.hubspot.com/marketplace/listing/retainer-wallet-prepaid-hours-time-tracking) - Track prepaid client hours and log time on HubSpot tickets and deals.
+* [Toggl Track](https://toggl.com/track) - Lightweight time tracking with invoice export.
 
 ## Expense & Receipt Tracking
 *Capture spend and reconcile to invoices.*
