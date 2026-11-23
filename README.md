@@ -39,6 +39,7 @@
 * [Harvest](https://www.getharvest.com) - Time tracking with native invoicing and Stripe payments.
 * [Toggl Track](https://toggl.com/track) - Lightweight time tracking with invoice export.
 * [Clockify](https://clockify.me) - Free time tracker with invoicing add-on.
+* [Firmowid](https://firmowid.pl) - Open-source (AGPL-3.0) time tracking per project with invoicing, bank matching and Poland's KSeF e-invoicing.
 
 ## Expense & Receipt Tracking
 *Capture spend and reconcile to invoices.*
