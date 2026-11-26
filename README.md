@@ -36,6 +36,7 @@
 ## Time Tracking → Invoice
 *Bill clients straight from tracked time.*
 
+* [Astrolinks Invoice Generator](https://astrolinks.org/tools/invoice-generator/) - Free online invoice generator that turns hours × rate or fixed fees into a PDF invoice, no sign-up.
 * [Harvest](https://www.getharvest.com) - Time tracking with native invoicing and Stripe payments.
 * [Toggl Track](https://toggl.com/track) - Lightweight time tracking with invoice export.
 * [Clockify](https://clockify.me) - Free time tracker with invoicing add-on.
